@@ -1,0 +1,1 @@
+/home/sho825/dotfiles/.vim/colors/molokai.vim
